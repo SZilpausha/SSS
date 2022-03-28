@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML = 51 + 6;
